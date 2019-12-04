@@ -1,3 +1,4 @@
+# First program with matplotlib ^o^
 import matplotlib.pyplot as plt
 
 input_values = [1, 2, 3, 4, 5]
